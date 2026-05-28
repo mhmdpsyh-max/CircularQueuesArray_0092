@@ -45,4 +45,7 @@ class Queues{
     }
 
     void remove()
-    
+    {
+        // cek apakah antrian kosong
+        
+    }
